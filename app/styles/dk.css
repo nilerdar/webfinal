@@ -1,0 +1,11 @@
+.dark-theme {
+    background-color: #333; /* Fondo oscuro */
+    color: #fff; /* Texto en blanco */
+  }
+
+  .dark-theme-dark {
+    background-color: #222; /* Fondo oscuro */
+  }
+  
+  /* Personaliza otras clases de Bootstrap para que se ajusten al tema oscuro si es necesario */
+  
